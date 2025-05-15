@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/831965837034675680/f1e943ad3d884023a5e68ad693516d3b/artifacts
+end_time: 1747276269792
+entry_point_name: ''
+experiment_id: '831965837034675680'
+lifecycle_stage: active
+run_id: f1e943ad3d884023a5e68ad693516d3b
+run_name: chill-carp-653
+run_uuid: f1e943ad3d884023a5e68ad693516d3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747276259417
+status: 3
+tags: []
+user_id: Santi

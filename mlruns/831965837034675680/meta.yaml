@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/831965837034675680
+creation_time: 1747275206009
+experiment_id: '831965837034675680'
+last_update_time: 1747275206009
+lifecycle_stage: active
+name: prestamos_rf

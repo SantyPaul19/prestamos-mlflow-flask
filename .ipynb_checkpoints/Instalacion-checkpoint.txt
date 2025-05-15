@@ -1,0 +1,12 @@
+1. Ejecutar el entrenamiento
+python train_model.py
+
+2. Abrir MlFlow
+mlflow ui --port 9090
+
+Visita: http://127.0.0.1:9090
+
+3. Ejecutar Flask
+python app.py
+
+Visita: http://127.0.0.1:5000

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/831965837034675680/37e4ae6e93954bc491c718f3a60bf8c7/artifacts
+end_time: 1747275763367
+entry_point_name: ''
+experiment_id: '831965837034675680'
+lifecycle_stage: active
+run_id: 37e4ae6e93954bc491c718f3a60bf8c7
+run_name: melodic-rat-160
+run_uuid: 37e4ae6e93954bc491c718f3a60bf8c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747275752990
+status: 3
+tags: []
+user_id: Santi

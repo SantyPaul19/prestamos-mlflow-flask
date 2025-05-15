@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/831965837034675680/e626443e58d045fe9aaaef48add95c81/artifacts
+end_time: 1747276304394
+entry_point_name: ''
+experiment_id: '831965837034675680'
+lifecycle_stage: active
+run_id: e626443e58d045fe9aaaef48add95c81
+run_name: unique-hen-185
+run_uuid: e626443e58d045fe9aaaef48add95c81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747276293554
+status: 3
+tags: []
+user_id: Santi

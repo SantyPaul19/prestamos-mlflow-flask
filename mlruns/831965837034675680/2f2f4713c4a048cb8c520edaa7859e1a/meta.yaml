@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/831965837034675680/2f2f4713c4a048cb8c520edaa7859e1a/artifacts
+end_time: 1747275279719
+entry_point_name: ''
+experiment_id: '831965837034675680'
+lifecycle_stage: active
+run_id: 2f2f4713c4a048cb8c520edaa7859e1a
+run_name: victorious-robin-305
+run_uuid: 2f2f4713c4a048cb8c520edaa7859e1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747275267993
+status: 3
+tags: []
+user_id: Santi
